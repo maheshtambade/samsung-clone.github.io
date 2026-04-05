@@ -197,4 +197,9 @@ ul {
   .card-section {
     flex-direction: column;
   }
+ .card-section p{
+  font-size:40px;
+  font-weight:bold;
+  font-family:sans-sarif,arial;
+ }
 }
